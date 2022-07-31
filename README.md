@@ -1,2 +1,2 @@
 # ngrams generated from youtube transcripts
-- ngrams focused on surrouding a particular word
+- ngrams focused on a particular word
