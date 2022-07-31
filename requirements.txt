@@ -1,0 +1,4 @@
+langdetect==1.0.9
+py_youtube==1.1.7
+requests==2.28.1
+youtube_transcript_api==0.4.4
